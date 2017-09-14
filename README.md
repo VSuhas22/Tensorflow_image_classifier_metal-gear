@@ -36,6 +36,7 @@ Its used to classify images into 3 types.
 ## How I trained the data ##
 
 * I first opened the terminal in the folder which gets extracted from the zip
+* To collect all the images i just downloaded the first 100 images from the google search using this chrome extension:https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en
 * Then typed the following commands to train the data:
   ```
   IMAGE_SIZE=224
