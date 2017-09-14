@@ -18,6 +18,7 @@ Its used to classify images into 3 types.
   ![Alt text](sample_images/big_boss.jpg?raw=true "Optional Title")
   
   As one of these 3 images:
+  ![Alt text](sample_images/3_images.png?raw=true "Optional Title")
   
 * To do that we use the command 
   ```
@@ -29,6 +30,7 @@ Its used to classify images into 3 types.
   
   and 'tf_files/metalgear_snake/big_boss.jpg' is the location of the image we need to classify
 * This gives the output as:
+  ![Alt text](sample_images/final_output.jpeg?raw=true "Optional Title")
   
 ## How I trained the data ##
 
