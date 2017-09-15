@@ -51,7 +51,7 @@ Its used to classify images into 3 types.
     --output_graph=tf_files/retrained_graph.pb \
     --output_labels=tf_files/retrained_labels.txt \
     --architecture="${ARCHITECTURE}" \
-    --image_dir=tf_files/flower_photos
+    --image_dir=tf_files/metalgear_snake
   ```
 * This took me about 10 minutes to train, then I used the above methods to classify the image
 
