@@ -3,7 +3,7 @@ This is an image classifier I worked on using 'Tensorflow'.
 Its used to classify images into 3 types.
 
 ## Prerequisites ##
-* The files required for this are given in my google drive, the link is: https://drive.google.com/open?id=0B-Y8en_pSPeiZUc4LUJRdTdTVUk
+* The files required for this are given in my google drive, the link is: https://drive.google.com/file/d/0B-Y8en_pSPeiZUc4LUJRdTdTVUk/view?usp=sharing
 
 * You also need Tensorflow library, which can be instaled using:
     ``` 
